@@ -1,9 +1,3141 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "carouselImages1": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693293676_maybelline_suhana_new-2596x836.jpeg"
+    },
+    {
+      "id": 2,
+      "image": " https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693293580_mamaearth_makeup_everyday-2596x836.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693333705_1298x418-13.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1686825232_hair_web.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693291847_exclusivestamp01_hpweb.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693314910_gv-rose-range-banner_web.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693215996_swiss_beauty_craze_tapsee_lips-2596x836.jpeg"
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1686825232_hair_web.jpg"
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693227314_m-a-c_studio_fix-2596x836.jpeg"
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693294445_mcaffiene-2596x836.jpeg"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "featured": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg",
+      "discription": "Lotus Herbals Safe Sun Uv Screen Mattegel Ultra Soothing Sunscreen | PA+++ | SPF 50 | Matte Look | Oil Control | For Normal to Oily Skin | 30g",
+      "price": 279,
+      "discount": 15,
+      "category": "Sun-Screen",
+      "review": 25,
+      "stars": 2.8,
+
+      "images": [
+        {
+          "id": 1,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_1_display_1585574794_e7f3d9a6.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g_2_display_1585574795_e8730151.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_3_display_1662470239_1725e771.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/269281/lotus-herbals-safe-sun-uv-screen-matte-gel-spf-50-pa-30-g-37_4_display_1662470239_e8cf1fba.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg",
+      "discription": "Maybelline New York Color Sensational Creamy Matte Lipstick Touch Of Spice (3.9 g",
+      "price": 379,
+      "discount": 10,
+      "category": "Maybelline New York Lipstick",
+      "review": 29,
+      "stars": 3.8,
+
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_10_display_1669014541_92074a19.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_11_display_1669014541_8c7defa3.jpg"
+        },
+
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_13_display_1669014543_cde26d27.jpg"
+        },
+
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/340053/maybelline-new-york-color-sensational-creamy-matte-touch-of-spice-4-2-g-46-16_14_display_1669014543_0d574341.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg",
+      "discription": "Streax Professional Vitariche Gloss Hair Serum 115 ML",
+      "price": 282,
+      "discount": 5,
+      "category": "Hair Serum",
+      "review": 45,
+      "stars": 2.8,
+
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/279084/matrix-opticare-smooth-shampoo-200-ml-61_1_display_1692258773_75e4da5b.jpg",
+      "discription": "MATRIX Opti.Care Professional Shampoo for Smooth Straight Shampoo | For Salon Smooth, Straight hair | with Shea Butter (200ml)",
+      "price": 390,
+      "discount": 20,
+      "category": "Shampoo",
+      "review": 45,
+      "stars": 4.1,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/283235/pilgrim-squalane-roll-on-under-eye-cream-serum-with-caffeine_1_display_1673527092_91f358c2.jpg",
+      "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
+      "price": 380,
+      "discount": 12,
+      "category": "Roll-On Under Eye Cream",
+      "review": 55,
+      "stars": 3.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/345341/garnier-bright-complete-vitamin-c-facewash-150-g-83_1_display_1688470915_c2d405ff.jpg",
+      "discription": "Garnier Bright Complete VITAMIN C Facewash (150 g)",
+      "price": 210,
+      "discount": 0,
+      "category": "VITAMIN C Facewash",
+      "review": 65,
+      "stars": 4.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/348442/insight-3-in-1-long-lasting-primer-30ml-67_2_display_1630212475_7b05bb98.jpg",
+      "discription": "Insight 3 In 1 Long Lasting Primer (30ml)",
+      "price": 548,
+      "discount": 20,
+      "category": "primer",
+      "review": 85,
+      "stars": 5,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/283235/pilgrim-squalane-roll-on-under-eye-cream-serum-with-caffeine_1_display_1673527092_91f358c2.jpg",
+      "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
+      "price": 680,
+      "discount": 35,
+      "category": "Roll-On Under Eye Cream Serum",
+      "review": 35,
+      "stars": 2.5,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/297068/biotique-sun-shield-sandalwood-50-spf-sunscreen-lotion-120-ml_1_display_1675401165_f56c5e8c.jpg",
+      "discription": "Biotique Sun Shield Sandalwood 50+Spf Sunscreen Lotion (120 ml)",
+      "price": 399,
+      "discount": 15,
+      "category": "Sun Shield Sandalwood",
+      "review": 45,
+      "stars": 2.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/355945/maybelline-the-colossal-volum-express-waterproof-mascara-01-46_7_display_1668754513_27dc93b1.jpg",
+      "discription": "Maybelline New York The Colossal 2x Volume Waterproof Mascara - Black (10 g)",
+      "price": 519,
+      "discount": 10,
+      "category": "Waterproof Mascara",
+      "review": 66,
+      "stars": 4.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/349216/lotus-herbals-whiteglow-serum-moisturiser-30-ml-14_2_display_1678438926_bb7fbbdc.jpg",
+      "discription": "Lotus Herbals Whiteglow Intensive Skin Serum + Moisturiser | Nourishes & Moisturises Skin | For All Skin Types | 30ml",
+      "price": 690,
+      "discount": 15,
+      "category": "Moisturiser",
+      "review": 85,
+      "stars": 4.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/345208/maybelline-new-york-colossal-bold-eyeliner-black-3-g-21_1_display_1678336605_f4d810ef.jpg",
+      "discription": "Pilgrim Squalane Roll-On Under Eye Cream Serum For Dark Circles, Puffiness & Wrinkles For Women & Men With Phyto-retinol & Caffeine (15 ml)",
+      "price": 580,
+      "discount": 20,
+      "category": "Roll-On Under Eye Cream Serum For Dark Circles",
+      "review": 25,
+      "stars": 2.3,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/343059/maybelline-dramatic-gel-liner-blank-77-17_2_display_1644384082_466837ab.jpg",
+      "discription": "Maybelline New York Lasting Drama Gel Eyeliner, Black 01",
+      "price": 400,
+      "discount": 10,
+      "review": 59,
+      "stars": 4.8,
+      "category": "Drama Gel Eyeliner",
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/332317/maybelline-new-york-fit-me-matte-poreless-liquid-foundation-tube-115-ivory-18-ml-11_1_display_1675256597_5f46531f.jpg",
+      "discription": "Maybelline New York Fit Me Matte+Poreless Liquid",
+      "price": 429,
+      "discount": 15,
+      "category": "Fit Me Matte+Poreless",
+      "review": 45,
+      "stars": 3.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/253504/maybelline-new-york-super-stay-matte-ink-liquid-lipstick-120-artist-5-g_8_display_1568192454_6fea453a.jpg",
+      "discription": "Maybelline New York Super Stay Matte Ink Liquid",
+      "price": 699,
+      "discount": 20,
+      "category": "Matte Ink Liquid Lipstick",
+      "review": 75,
+      "stars": 3.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,oi-AD_35x235_small_kJWM53nMn1.png,ow-60,ofo-top_right,dpr-2/static/img/product/307565/maybelline-new-york-lash-sensational-sky-high-waterproof-mascara-lengthening-and-volumizing-mascara-with-bamboo-exract-and-fibres-very-black-6-ml_1_display_1678336663_76640fad.jpg",
+      "discription": "Buy 3 Extra 10% Off Maybelline New York Lash Sensational Sky High",
+      "price": 599,
+      "discount": 25,
+      "category": "maybelline-new-york-lash-sensational",
+      "review": 75,
+      "stars": 3.8,
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_2_display_1662096680_d4232451.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_3_display_1675330204_c10b783b.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_4_display_1675330207_c99e8f70.jpg"
+        },
+        {
+          "image": "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/324943/streax-professional-vitariche-gloss-hair-serum-115-ml_5_display_1675330224_d6fe2e9c.jpg"
+        }
+      ]
+    }
   ],
-  "profile": { "name": "typicode" }
+  "Lowest_Peices_Ever": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693415565_nybae-festive-glow-kit.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396797_ag.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396804_l_oreal-professionnel.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396797_bella-vita.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396800_gv.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396799_dermdoc.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396805_lotus.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396800_faces-canada.jpg"
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396806_love-beauty-_-planet.jpg"
+    },
+    {
+      "id": 10,
+      "image": " https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693396801_l_oreal-paris.jpg"
+    }
+  ],
+  "carouselImages2": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693302176_final-best-combo-deals-web.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693397844_web-43.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1690182553_new-launch-thick-strip-web.jpg"
+    }
+  ],
+  "carouselImages3": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1695913450_international_-2560x544.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1695806662_pujo_combo-thick-strip-web.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1695920934_hul-makeup_web-copy-2-2-1.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1695806662_pujo_combo-thick-strip-web.jpg"
+    }
+  ],
+
+  "grid_Brands": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1692972879_swiss_beauty_makeup_for_every_shade_copy_1-1476x1028.jpeg",
+      "brand": "Swiss Beauty",
+
+      "Brandbanner": [
+        {
+          "id": 1,
+          "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1676021356_swiss-beauty-2_web_hp.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693380810_lotus_herbals_uv_protection-1476x1028.jpeg",
+      "brand": "lotus",
+
+      "Brandbanner": [
+        {
+          "id": 1,
+
+          "img": "https://media6.ppl-media.com/tr:dpr-2,dpr-2/mediafiles/ecomm/misc/1695970333_maybellie_web.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693159450_vitamin-c-serum-without-stampgv-vitamin-c-serum-app-banner.jpg",
+      "brand": "Good vibes"
+    },
+    {
+      "id": 4,
+      "brand": "NY bae",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1692953040_apphero_tag-copy-4-2.png"
+    },
+    {
+      "id": 5,
+      "brand": "FACE CANADA",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1692954370_faces_hydra_matte-1476x1028-1.jpeg"
+    },
+    {
+      "id": 6,
+      "brand": "ALPS GOODNESS",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693285955_exclusivestamp01_hpapp.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "mamaearth",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693294439_mamaearth_ubtan_facewash-1476x1028.jpeg"
+    },
+    {
+      "id": 8,
+      "brand": "L'OREAL",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693381268_loreal_professionel_black-1476x1028.jpeg"
+    },
+    {
+      "id": 9,
+      "brand": "NIVEA",
+      "image": "https://media6.ppl-media.com/tr:w-640,ar-369-257,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693417438_nivea_roll_on_copy_1-1476x1028.jpeg"
+    }
+  ],
+
+  "SwissBeautyProducts": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
+
+      "title": "Best Sellers",
+      "cetegory": "Lipstick",
+      "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip Colour | 2-in-1 Lip Colour with Satin Matte Finish | 2 Shades in 1 Lipstick | Long-lasting lipstick 04 Terrafic Pink",
+      "price": 299,
+      "discount": 20,
+      "key": "Lipstick",
+      "color": "Duo Lip Color",
+      "review": 75,
+      "stars": 3.8,
+      "Shades:": [
+        "04 Terrafic Pink",
+        "01 Party Ready",
+        " Terrafic Pink",
+        "02 Ultimate Nude"
+      ],
+
+      "images": [
+        {
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
+          "id": 1
+        },
+        {
+          "id": 2,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg"
+        },
+        {
+          "id": 3,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/361020/swiss-beauty-real-makeup-base-highlighting-primer-natural-tint-30-ml_1_display_1590792783_75d33aec.jpg",
+      "title": "Best Sellers",
+      "cetegory": "makeup",
+
+      "discription": "Swiss Beauty Real Makeup Base Highlighting Primer - Natural-Tint (32 ml)",
+      "price": 440,
+      "discount": 13,
+      "key": "Makeup Base",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/224572/swiss-beauty-liqiud-concealer-sand-sable-5-6-g-19_1_display_1681875795_f17e4508.jpg",
+
+      "title": "Best Sellers",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty Liquid concealer - Medium-Beige (6 g)",
+      "price": 229,
+      "discount": 17,
+      "key": "Concealer",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
+      "title": "Best Sellers",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty Makeup Fixer (70 ml)",
+      "price": 249,
+      "discount": 10,
+      "key": "makeup fixer",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341509/swiss-beauty-craze-makeup-fixer-setting-spray-03-soothing-jasmine_6_display_1680085409_cbd77609.jpg",
+      "title": "Best Sellers",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty CRAZE Makeup Setting Spray |with Jasmine extract |",
+      "price": 287,
+      "discount": 62,
+      "key": "makeup setting spray",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/294278/swiss-beauty-mascara-black-10-ml-50-16_1_display_1687246261_98a6fdaf.jpg",
+      "title": "Best Sellers",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty Precision Mascara - Black (8.5 ml)",
+      "price": 299,
+      "discount": 33,
+      "key": "mascara",
+      "color": "black",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/356327/swiss-beauty-eyebrow-pencil-dark-brown-1-8-g-41-22_3_display_1690542172_8ccf327c.jpg",
+      "title": "Best Sellers",
+      "discription": "Swiss Beauty Eyebrow Pencil - Dark-Brown(1mg)",
+      "cetegory": "EyeMakeup",
+      "price": 99,
+      "discount": 25,
+      "key": "Eyebrow Pencil",
+      "color": "Dark-Brown",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/200194/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-real-nude-6-ml_11_display_1692697429_7305dfda.jpg",
+      "title": "Best Sellers",
+      "cetegory": "Lipstick",
+      "discription": "swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick",
+      "price": 199,
+      "discount": 16,
+      "key": "Matte Lip Liquid Lipstick",
+      "color": "Nude",
+      "review": 25,
+      "stars": 2.8
+    },
+
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341514/swiss-beauty-craze-eyeliner-and-stamp-duo_1_display_1675399923_d6c01791.jpg",
+      "title": "Currently Trending",
+      "category": "EyeMakeup",
+      "discription": "Swiss Beauty Craze Eyeliner and Stamp Duo | Wing eyeliner stamp and Pen | Black|3 offers Swiss Beauty Craze Eyeliner and Stamp Duo",
+      "price": 299,
+      "discount": 20,
+      "key": "Eyeliner",
+      "color": "black",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
+      "title": "Currently Trending",
+      "category": "Makeup",
+      "discription": "Swiss Beauty Makeup Fixer (70 ml)3 offers Swiss Beauty Makeup Fixer (70 ml)",
+      "price": 289,
+      "discount": 26,
+      "key": "makeup fixer",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/226380/swiss-beauty-liqiud-concealer-medium-beige-5-6-g-14-13_1_display_1681875808_4d9b5486.jpg",
+      "title": "Currently Trending",
+      "category": "Makeup",
+      "discription": "Swiss Beauty Liquid concealer - Medium-Beige (6 g)",
+      "price": 229,
+      "discount": 15,
+      "key": "Concealer",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/200194/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-real-nude-6-ml_11_display_1692697429_7305dfda.jpg",
+      "title": "Currently Trending",
+      "category": "Lipstick",
+      "discription": "swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick",
+      "price": 399,
+      "discount": 12,
+      "key": "Matte Lip Liquid Lipstick",
+      "color": "Nude",
+      "review": 25,
+      "stars": 2.8
+    },
+
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
+      "title": "Featured",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty Makeup Fixer (70 ml)",
+      "price": 249,
+      "discount": 10,
+      "key": "makeup fixer",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 14,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341509/swiss-beauty-craze-makeup-fixer-setting-spray-03-soothing-jasmine_6_display_1680085409_cbd77609.jpg",
+      "title": "Featured",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty CRAZE Makeup Setting Spray |with Jasmine extract |",
+      "price": 287,
+      "discount": 62,
+      "key": "makeup setting spray",
+      "color": "",
+      "review": 25,
+      "stars": 2.8
+    },
+    {
+      "id": 15,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/294278/swiss-beauty-mascara-black-10-ml-50-16_1_display_1687246261_98a6fdaf.jpg",
+      "title": "Featured",
+      "cetegory": "Makeup",
+
+      "discription": "Swiss Beauty Precision Mascara - Black (8.5 ml)",
+      "price": 299,
+      "discount": 33,
+      "key": "mascara",
+      "color": "black",
+      "review": 25,
+      "stars": 5
+    },
+    {
+      "id": 16,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/356327/swiss-beauty-eyebrow-pencil-dark-brown-1-8-g-41-22_3_display_1690542172_8ccf327c.jpg",
+      "title": "Featured",
+      "discription": "Swiss Beauty Eyebrow Pencil - Dark-Brown(1mg)",
+      "cetegory": "EyeMakeup",
+      "price": 99,
+      "discount": 25,
+      "key": "Eyebrow Pencil",
+      "color": "Dark-Brown",
+      "review": 25,
+      "stars": 4.8
+    },
+    {
+      "id": 17,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/200194/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-real-nude-6-ml_11_display_1692697429_7305dfda.jpg",
+      "title": "Featured",
+      "cetegory": "Lipstick",
+      "discription": "swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick",
+      "price": 199,
+      "discount": 16,
+      "key": "Matte Lip Liquid Lipstick",
+      "color": "Nude",
+      "review": 25,
+      "stars": 4.8
+    },
+
+    {
+      "id": 18,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341514/swiss-beauty-craze-eyeliner-and-stamp-duo_1_display_1675399923_d6c01791.jpg",
+      "title": "Featured",
+      "category": "EyeMakeup",
+      "discription": "Swiss Beauty Craze Eyeliner and Stamp Duo | Wing eyeliner stamp and Pen | Black|3 offers Swiss Beauty Craze Eyeliner and Stamp Duo",
+      "price": 299,
+      "discount": 20,
+      "key": "Eyeliner",
+      "color": "black",
+      "review": 25,
+      "stars": 4.8
+    },
+    {
+      "id": 19,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
+      "title": "Featured",
+      "category": "Makeup",
+      "discription": "Swiss Beauty Makeup Fixer (70 ml)3 offers Swiss Beauty Makeup Fixer (70 ml)",
+      "price": 289,
+      "discount": 26,
+      "key": "makeup fixer",
+      "color": "",
+      "review": 25,
+      "stars": 4.8
+    }
+  ],
+
+  "shopAllProduct": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
+      "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip",
+      "price": 499,
+      "discount": 16
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/324745/swiss-beauty-shine-and-plump-lipgloss-2-4-ml_1_display_1643894240_18c57309.jpg",
+      "discription": "Swiss Beauty Shine & Plump Lipgloss 2 (4 ml)",
+      "price": 149,
+      "discount": 5
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/359051/swiss-beauty-lip-pallete-multi-02-10-g-10-15-11_1_display_1687246198_10e1f3ee.jpg",
+      "discription": "Swiss Beauty Matte Lip Pallete - 02 (12 g)",
+      "price": 490,
+      "discount": 30
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/341509/swiss-beauty-craze-makeup-fixer-setting-spray-03-soothing-jasmine_6_display_1680085409_cbd77609.jpg",
+      "discription": "Swiss Beauty CRAZE Makeup Setting Spray |with Jasmine",
+      "price": 249,
+      "discount": 10
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/356865/swiss-beauty-real-makeup-base-highlighting-primer-3-30-ml_1_display_1599734728_0ac26d37.jpg",
+      "discription": "",
+      "price": "",
+      "discount": ""
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/358086/swiss-beauty-shiny-pearl-water-drop-blemish-balm-bb-foundation-02-40-ml-10_11_display_1681875782_41a03c42.jpg",
+      "discription": "Swiss Beauty Shiny Pearl Water Drop Blemish Balm BB",
+      "price": 429,
+      "discount": 34
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/342763/swiss-beauty-intense-gel-kajal-eyeliner-turquoise-1-2-gm-35_8_display_1689595948_beb43d7d.jpg",
+      "discription": "Swiss Beauty Intense Gel Kajal  - Turquoise 1.2 gm",
+      "price": 399,
+      "discount": 10
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/332907/swiss-beauty-studio-finish-hd-eye-base-primer-light-01-10-ml_5_display_1665745283_7c4b5dbf.jpg",
+      "discription": "Swiss Beauty Studio Finish HD Eye Base Primer Light 01",
+      "price": 329,
+      "discount": 19
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/353084/swiss-beauty-professional-face-and-eye-brush-set-1_2_display_1610432681_36089637.jpg",
+      "discription": "Swiss Beauty Professional Face & Eye Brush Set - 1",
+      "price": 1299,
+      "discount": 35
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/288199/swiss-beauty-makeup-brushes-set-3-100-g_2_display_1638789687_68fdea31.jpg",
+      "discription": "Swiss Beauty Makeup Brushes Set 5 Purple",
+      "price": 1199,
+      "discount": 40
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/200393/swiss-beauty-baked-blusher-and-highlighter-multi-03-7-g_1_display_1652340263_aa63afb6.jpg",
+      "discription": "Swiss Beauty Fusion Highlighter 2(6 g)",
+      "price": 349,
+      "discount": 25
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/361279/swiss-beauty-funk-it-up-look-kit-matte-cat-lip-crayon-07-ultimate-eyeshadow-pallete-08-cheek-a-boo-pallete-02-pop-sty-eyeliner-green-with-rainbow-pouch-and-free-stickons-and-badge-18-5-gm_1_display_1691405063_8798fcef.jpg",
+      "discription": "Swiss Beauty Funk It Up Look Kit|Matte Cat Lip Crayon 07|",
+      "price": 1299,
+      "discount": 53
+    },
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/347227/swiss-beauty-non-transfer-matte-cat-lip-crayon-water-resistant-long-lasting-8-hours-stay-retractable-lip-crayon-lighweight-shade-21-jam-1-5-gm_1_display_1677565210_df91b997.jpg",
+      "discription": "Swiss Beauty Pure Matte Lipstick -Lust On (3.8 g)",
+      "price": 299,
+      "discount": 24,
+      "category": "Lipstick",
+
+      "color": "maroon"
+    },
+    {
+      "id": 14,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/314867/swiss-beauty-3d-eyelashes-dream-lashes-03_1_display_1658493147_ec6a59cb.jpg",
+      "discription": "Buy Swiss Beauty 3D Eyelashes Dream L 03-PurplleThis product is out of stock3 offers Swiss Beauty 3D Eyelashes Dream Lashes 03",
+      "price": 349,
+      "discount": 10,
+      "category": "Eyelashes"
+    },
+    {
+      "id": 15,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/303147/swiss-beauty-ultra-base-concealer-palette-multi-02-16-g-43_1_display_1673267343_398858a2.jpg",
+      "discription": "Swiss Beauty Ultra Base Concealer Palette- Multi-02 (19 g)",
+      "price": 549,
+      "discount": 25,
+
+      "key": "Eyeshadow",
+      "category": "EyeMakeup"
+    },
+    {
+      "id": 16,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/294843/swiss-beauty-ultimate-eyeshadow-palette-kit-multi-02-9-g-17_1_display_1680089291_301bfec5.jpg",
+      "discription": "Swiss Beauty Ultimate Eyeshadow Palette Kit - Multi-02 (6 g)",
+      "price": 269,
+      "discount": 20,
+      "key": "Eyeshadow",
+      "category": "EyeMakeup"
+    },
+
+    {
+      "id": 17,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/358086/swiss-beauty-shiny-pearl-water-drop-blemish-balm-bb-foundation-02-40-ml-10_11_display_1681875782_41a03c42.jpg",
+      "discription": "Swiss Beauty Shiny Pearl Water Drop Blemish Balm BB Foundation - 02 (40 ml)",
+      "price": 299,
+      "discount": 25,
+      "skintype": "dry"
+    },
+    {
+      "id": 18,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/296379/swiss-beauty-skin-brightenign-day-cream-50-g_1_display_1631163214_5084d6aa.jpg",
+      "discription": "Buy Swiss Beauty Skin Brightenign Day Cream (50 g)-Purplle3 offers Swiss Beauty Skin Brightenign Day Cream (50 g",
+      "price": 449,
+      "discount": 25,
+      "skintype": "dry"
+    },
+    {
+      "id": 19,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/267259/swiss-beauty-perfect-match-panstick-creamy-ivory-8-g-10-11-11_1_display_1661341644_64295476.jpg",
+      "discription": "Swiss Beauty Perfect Match Panstick - Creamy Ivory (7.5 g)",
+      "price": 249,
+      "discount": 10,
+      "skintype": "dry",
+      "color": "Creamy Ivory"
+    },
+    {
+      "id": 20,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/347227/swiss-beauty-non-transfer-matte-cat-lip-crayon-water-resistant-long-lasting-8-hours-stay-retractable-lip-crayon-lighweight-shade-21-jam-1-5-gm_1_display_1677565210_df91b997.jpg",
+      "discription": "",
+      "price": 479,
+      "discount": 34,
+      "color": "red",
+      "category": "Lipstick",
+      "key": "crayon"
+    },
+    {
+      "id": 21,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/343213/swiss-beauty-plump-up-wet-lip-gloss-for-glossy-and-fuller-lips-7-date-night-2ml_1_display_1679996241_2d3d3a06.jpg",
+      "discription": "Swiss Beauty Plump-Up Wet Lip Gloss for Glossy and Fuller Lips 7-Date Night 2Ml",
+      "price": 249,
+      "discount": 15,
+      "color": "pink",
+      "key": "lipgloss",
+      "category": "Lipstick"
+    },
+    {
+      "id": 22,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/346546/swiss-beauty-bake-it-away-loose-powder-translucent-powder-02-28gm-91_4_display_1678091626_3504c0e3.jpg",
+      "discription": "Swiss Beauty Bake It Away Loose Powder Translucent Powder 02 - 28gm",
+      "price": 299,
+      "discount": 10,
+      "category": "Makeup",
+      "key": "Loose Powder",
+      "skintype": "All"
+    },
+    {
+      "id": 23,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/200177/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-sexy-red-6-ml_1_display_1679476122_407f542d.jpg",
+      "discription": "Swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick Color Stay - Grape Wine (6 ml)",
+      "price": 199,
+      "discount": 20,
+      "color": "maroon",
+      "key": "Matte Lip Liquid Lipstick",
+      "category": "Lipstick"
+    },
+    {
+      "id": 24,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341518/swiss-beauty-craze-lip-and-cheek-macaron-4-pink-gelly_1_display_1675400059_932d220c.jpg",
+      "discription": "Swiss Beauty Craze Lip and Cheek Macaron | With goodness of Vitamin E and Olive oil | Multipurpose cream ",
+      "price": 224,
+      "discount": 25,
+      "key": "lipbalm",
+      "category": "Lipstick"
+    }
+  ],
+
+  "best_sellers": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/348274/good-vibes-serum-powered-beauty-de-tan-glow-night-cream-ubtan-50-g-17_13_display_1690806913_2d5ebe57.jpg",
+
+      "discription": "Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g)",
+      "price": 290,
+      "discount": 28
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_11_display_1676005886_074d3c93.jpg",
+      "discription": "Good Vibes De-Tan Glow Night Cream Ubtan with Power of Serum | No Parabens, No Animal Testing, Vegan, No Mineral Oil, No Sulphates (50 g)",
+      "price": 399,
+      "discount": 9,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_12_display_1681978043_046e24b9.jpg",
+        "https://media6.ppl-media.com/tr:h-75,w-75,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_1_display_1676005847_4b595aa6.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_3_display_1676005855_7d1c8f4a.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/342125/ny-bae-5-in-1-lipstick-nude-moods-02-6-5g_4_display_1676005859_0f3e85e8.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_2_display_1682070632_e4cfb4b3.jpg",
+      "discription": "Good Vibes Papaya Brightening Face Wash | Deep Pore Cleansing, Non-Drying | With Mulberry | No Parabens, No Mineral Oil, No Animal Testing (120 ml)",
+      "price": 235,
+      "discount": 23,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_3_display_1682070633_3dff658a.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_5_display_1682070635_4cc67546.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/351278/good-vibes-papaya-brightening-face-wash-deep-pore-cleansing-non-drying-with-mulberry-no-parabens-no-mineral-oil-no-animal-testing-120-ml-92_6_display_1682070636_5fc5e17c.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_1_display_1691128582_8864e0aa.jpg",
+      "discription": "Maybelline New York Fit Me 16Hr Oil Control Compact, 128 Warm Nude, 6g",
+      "price": 259,
+      "discount": 19,
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_1_display_1691128582_8864e0aa.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_3_display_1691128584_6ff362b0.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_3_display_1691128584_6ff362b0.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/357844/maybelline-new-york-fit-me-12hr-oil-control-compact-shade-220-8-g-17-18_4_display_1691128585_32bc5d01.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_5_display_1682067111_213bfcb0.jpg",
+      "discription": "NY Bae The Big Apple Of My Eyes Kohl Kajal | Waterproof | Smooth and Soothing | Smudgeproof Eye Makeup | Black (0.25g)",
+      "price": 129,
+      "discount": 23,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_5_display_1682067111_213bfcb0.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_4_display_1680243880_594132ac.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344692/ny-bae-kohl-black-the-big-apple-of-my-eye-14-15_3_display_1686213321_2e5f9f47.jpg",
+        "https://media4.purplle.com/static/img/brand//__1620898156_0350fc43.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_13_display_1693480661_f0543f2e.jpg",
+      "discription": "DERMDOC by Purplle 5% Glycolic Acid Under Arm Treatment (100ml) | whitening underarms, darkened underarms, underarm lightening treatment, dark underarm spray, glycolic acid for skin lightening | hyperpigmentation under arms",
+      "price": 325,
+      "discount": 15,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_13_display_1693480661_f0543f2e.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_2_display_1688543291_cac910e5.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_3_display_1688543295_554682f0.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_6_display_1688543298_a26fb350.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
+      "discription": "NY Bae 3 in 1 Serum Foundation with Primer I Moisturising I Glowing Korean Skin I Warm Cashew 03 (30 ml)",
+      "price": 329,
+      "discount": 5,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_8_display_1693552163_ec57b4bc.jpg",
+      "discription": "NY Bae PRO Strobe Cream | Primer + Highlighter + Moisturizer | Glowing Korean Skin - Pink Topaz (12 g)",
+      "price": 260,
+      "discount": 0,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_8_display_1693552163_ec57b4bc.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_3_display_1689853881_f5da3567.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_4_display_1689853882_5d0c8e07.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/336581/ny-bae-pro-strobe-cream-pink-topaz-12gm-50_5_display_1689853884_ade595a3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
+      "discription": "NY Bae 3 in 1 Serum Foundation with Primer I Moisturising I Glowing Korean Skin I Warm Cashew 03 (30 ml)",
+      "price": 379,
+      "discount": 8,
+
+      "images": [
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_1_display_1691506174_2bd9c032.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_2_display_1691506178_f42d0dbc.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_3_display_1691506183_d5841583.jpg",
+        "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/344732/ny-bae-3-in-1-primer-foundation-serum-warm-cashew-03-30-ml-82_4_display_1691506184_b301f203.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/342903/good-vibes-rosehip-hydrating-glow-face-cream-50-g_12_display_1691653254_8bac403c.jpg",
+      "discription": "NY Bae PRO Strobe Cream | Primer + Highlighter + Moisturizer | Glowing Korean Skin - Pink Topaz (12 g)",
+      "price": 279,
+      "discount": 0
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/351102/alps-goodness-powder-beetroot-50-g-91-17_1_display_1686221399_df9d5f1d.jpg",
+      "discription": "Good Vibes Ubtan Insta Glow Powder | 100% Natural, No Preservatives, No Pesticides, No Parabens, No Silicones, No Sulphates, No Animal Testing (150 g)",
+      "price": 309,
+      "discount": 5
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/354707/good-vibes-rosehip-hydrating-glow-face-serum-light-non-sticky-brightening-with-vitamin-e-no-parabens-no-sulphates-no-animal-testing-10-ml-16-11_9_display_1685615946_b719e1bc.jpg",
+      "discription": "NY Bae Dewy Setting Spray | Makeup Fixer | Long Lasting Makeup | Hydrating | With Hyaluronic Acid | For Normal to Dry Skin | 30 ml",
+      "price": 279,
+      "discount": 15
+    }
+  ],
+  "BestcomboDeals": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/350803/alps-goodness-anti-hairfall-combo-shampoo-conditioner_1_display_1684038764_925361b9.jpg",
+      "discription": "Alps Goodness Anti Hairfall Combo Shampoo+Conditioner",
+
+      "price": 634,
+      "discount": 25
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/355764/good-vibes-radiant-glow-vitamin-c-ctsm-combo-set-of-4-2_1_display_1685518086_848593f8.jpg",
+      "discription": "Good Vibes Radiant Glow Vitamin C CTSM Combo (Set of 4)",
+      "price": 1014,
+      "discount": 35
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/296270/blue-heaven-festive-make-up-kit-fair-tone-combo-medium-tone-350-g_1_display_1677499176_da7369d1.jpg",
+      "discription": "BLUE HEAVEN Festive Make Up Kit Medium Tone Combo, Medium Tone, 76.9gm (Pack of 8)",
+      "price": 935,
+      "discount": 15
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/344035/the-face-shop-rice-water-bright-foaming-cleanser-50ml_10_display_1684932090_bb000052.jpg",
+      "discription": "The Face Shop Rice water Bright Cleansing foam Combo 50ml with Rice Water for Brighten the Skin | Soap Wort for Deep Cleansing |Moringa Oil for Moisturization | Face Wash for Men and Women",
+      "price": 334,
+      "discount": 1
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/346985/bella-vita-organic-unisex-luxury-perfume-gift-set-4x20-ml-skai-fresh-whiteoud-patchouli-for-men-and-women-pack-of-4-10_1_display_1690521744_4f11301c.jpg",
+      "discription": "Bella Vita  unisex luxury perfume gift set (80 ml)",
+      "price": 834,
+      "discount": 35
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/259851/mcaffeine-face-and-body-scrub-combo-for-exfoliation-and-tan-removal-sulphate-and-paraben-free-for-men-and-women-175-g_3_display_1633952000_0678dddb.jpg",
+      "discription": "mCaffeine Coffee Body Scrub & Face Scrub for Women & Men | Exfoliate Scrub Combo with Tan Removal Body Scrub (100gm) and Blackhead Remover Espresso Face Scrub (75gm) for Soft & Smooth Skin 175 gm",
+      "price": 678,
+      "discount": 25
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/339760/schwarzkopf-professional-spa-essence-hydrating-treatment-hair-masque-500-ml-pack-of-2_1_display_1679236801_5f2a3c4b.jpg",
+      "discription": "Schwarzkopf Professional Spa Essence Hydrating Treatment Hair Masque (500 ml) Pack Of 2",
+      "price": 1334,
+      "discount": 13
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/359462/mamaearth-glow-serum-foundation-and-compact-spf-30-combo-30ml-9g_1_display_1689599177_dfb2aa7e.jpg",
+      "discription": "Mamaearth Glow Serum Foundation with Vitamin C & Turmeric for 12-Hour Long Stay - 01 Ivory Glow (30 ml) + Mamaearth Glow Oil Control Compact SPF 30 with Vitamin C & Turmeric for 2X Instant Glow - 02 Creme Glow (9 g)",
+      "price": 1199,
+      "discount": 20
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/357737/ny-bae-nail-polish-remover-pads-pack-of-2_5_display_1690183310_6827f646.jpg",
+      "discription": "NY Bae Nail Polish Remover Pads | Pack of 2 | Travel Pack (129 g)",
+      "price": 175,
+      "discount": 10
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/353335/ny-bae-on-the-move-brush-kit_7_display_1691388166_3a32156c.jpg",
+      "discription": "NY Bae On The Move Brush Kit | Foundation + Highlighter + Eyeshadow + Lipstick Makeup Brushes | Travel Kit | Pack of 4",
+      "price": 649,
+      "discount": 35
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/359460/love-beauty-and-planet-argan-oil-and-lavender-sulfate-free-shampoo-and-conditioner-combo-200ml-200ml_1_display_1689599125_174eccd2.jpg",
+      "discription": "Love Beauty & Planet Argan Oil and Lavender Paraben Free Smooth and Serene Conditioner 200ml + Argan Oil and Lavender Sulfate Free Smooth and Serene Shampoo 200ml",
+      "price": 750,
+      "discount": 45
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/359461/love-beauty-and-planet-hairfall-control-sulfate-free-shampoo-and-conditioner-combo-200ml-200ml_1_display_1689599151_f016abc5.jpg",
+      "discription": "Love Beauty & Planet Onion BlackSeed & PatchouliA Hairfall Control Conditioner 200ml + Onion BlackSeed & Patchouli Hairfall Control Sulfate Free Shampoo 200ml",
+      "price": 750,
+      "discount": 45
+    },
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max/static/img/product/363037/l-oreal-paris-total-repair-5-combo-total-repair-shampoo-704-ml-total-repair-conditioner-192-5-ml-total-repair-serum-40ml-20-10_1_display_1678778169_c07601ab.jpg",
+      "discription": "L’Oreal Paris Total Repair 5 Combo (Total Repair Shampoo, 640 ml + Total Repair Conditioner, 175 ml + Total Repair Serum, 40ml)",
+      "price": 1317,
+      "discount": 35
+    }
+  ],
+
+  "trandingNow": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490898_body-lotions-2.jpg",
+
+      "BodyLotion": [
+        {
+          "id": 1,
+          "ProductMainimage": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/347738/good-vibes-aloe-vera-cooling-gel-body-lotion-210-ml_1_display_1685958755_7295db0c.jpg",
+          "discription": "Good Vibes Aloe Vera Cooling Gel Body Lotion (210 ml) | Instant Cooling Sensation | Non Sticky Comfort",
+          "price": 299,
+          "discount": 15,
+          "coments": []
+        },
+        {
+          "id": 2,
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/356958/dr-sheth-s-tea-tree-and-lactic-acid-body-lotion-200ml_1_display_1686918665_c6419bd1.jpg",
+          "discription": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion - 200ml",
+          "price": 299,
+          "discount": 15
+        },
+        {
+          "id": 3,
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/356953/dr-sheth-s-ceramide-and-vitamin-c-body-lotion-200ml_1_display_1686918678_2f36eeca.jpg",
+          "discription": "Dr. Sheth’s Vitamin C & Lactic Acid Body Lotion - 200ml",
+          "price": 349,
+          "discount": 16
+        },
+        {
+          "id": 4,
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/347737/good-vibes-strawberry-cooling-gel-body-lotion-210-ml_1_display_1685958919_be660f07.jpg",
+          "discription": "Good Vibes Strawberry Cooling Gel Body Lotion (210 ml) | Instant Cooling Sensation |",
+          "price": 299,
+          "discount": 15
+        },
+        {
+          "id": 5,
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/346711/lacto-calamine-light-moisturising-gel-non-sticky-hydrating-face-and-body-gel-with-niacinamide-hyaluronic-and-vitamin-e-for-non-oily-feel-and-glowing-skin-150-g_1_display_1676972286_19d80d4a.jpg",
+          "discription": "Lacto Calamine Light moisturising gel. Non-sticky hydrating face & body gel with niacinamide, Hyaluronic and vitamin E. For non-oily feel & glowing skin (150 g)",
+          "price": 299,
+          "discount": 30
+        },
+        {
+          "id": 6,
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/357489/biotique-ubtan-and-collagen-body-lotion-300-ml_1_display_1690178598_e96c7c9d.jpg",
+          "discription": "BIOTIQUE UBTAN & COLLAGEN Body Lotion (300 ml)",
+          "price": 299,
+          "discount": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490897_concealer-1.jpg"
+    },
+    {
+      "id": 3,
+      "imgae": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490896_face-moisturizers-copy.jpg"
+    },
+    {
+      "id": 4,
+      "imgae": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490897_cleanser.jpg"
+    },
+    {
+      "id": 5,
+      "imgae": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490896_face-moisturizers-copy.jpg"
+    },
+    {
+      "id": 6,
+      "imgae": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490898_bath-affair.jpg"
+    },
+    {
+      "id": 7,
+      "imgae": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693490898_body-lotions-2.jpg"
+    }
+  ],
+
+  "FREE_GIFT_OFFERS": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693419937_mac-600x865.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693419933_colorbar-600x865.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419934_innisfree-600x865.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419933_dot_-_key-600x865.jpeg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419939_swiss_beauty_craze-600x865.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693419938_makeup_revolution-600x865.jpeg"
+    }
+  ],
+
+  "CATEGORY_STORES": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313495_skincare_.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313494_makeup.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313492_haircare.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313490_bodycare.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313491_global-store.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313490_appliances.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-297-425,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693313493_luxury.jpg"
+    }
+  ],
+  "whatareyoulookinfor": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675874_eyeshadow-1000x1075.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675891_lipstick-1000x1075.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675893_shampoo-1000x1075.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675876_face_pack_masks_and_peels-1000x1075.jpeg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675865_bb_-_cc_creams-1000x1075.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693675875_face_moisturizers_-_day_creams-1000x1075.jpeg"
+    }
+  ],
+
+  "Limited_Hours_Deal": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693565989_blue_heaven-600x865.jpeg"
+    },
+
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693565987_jovees-_-_9pm-12am-600x865.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693565989_swiss_beauty_craze-600x865.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-457,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693641841_pilgrim_hair_essentials-600x865.jpeg"
+    }
+  ],
+
+  "BRANDS_WITH_GREAT_DEALS": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693556650_acne_squad-600x865-2.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404899_mars-600x865.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678808_tresemme-600x865.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693556606_love_beauty_planet-600x865-4.jpeg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404896_lotus_botanicals-600x865.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678810_dove-600x865.jpeg"
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693480419_simple-600x865.jpeg"
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678809_vaseline-600x865.jpeg"
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404906_rire-600x865.jpeg"
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678806_round_lab-600x865.jpeg"
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404892_joy-600x865.jpeg"
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678803_jovees-600x865.jpeg"
+    },
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678801_ikonic_professional-600x865.jpeg"
+    },
+    {
+      "id": 14,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404875_bblunt-600x865.jpeg"
+    },
+    {
+      "id": 15,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404874_bajaj-600x865.jpeg"
+    },
+    {
+      "id": 16,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678807_sirona-600x865.jpeg"
+    },
+    {
+      "id": 17,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317914_dot_-_key_heart_new-600x865.jpeg"
+    },
+    {
+      "id": 19,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693678458_tfs_sheet_new-600x865.jpeg"
+    },
+    {
+      "id": 20,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317919_m-a-c-_pink-600x865.jpeg"
+    },
+    {
+      "id": 21,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317912_cosrx-600x865.jpeg"
+    },
+    {
+      "id": 22,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317917_innisfree-600x865.jpeg"
+    },
+    {
+      "id": 23,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693487403_the_body_shop-600x865-1.jpeg"
+    },
+    {
+      "id": 24,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317919_klairs-600x865.jpeg"
+    },
+    {
+      "id": 25,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693654304_m-a-c.jpeg"
+    },
+    {
+      "id": 26,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693678459_bioderma-600x865.jpeg"
+    },
+    {
+      "id": 27,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693317916_inglot-600x865.jpeg"
+    },
+    {
+      "id": 28,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404890_indus_valley-600x865.jpeg"
+    },
+    {
+      "id": 29,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693678804_minimalist-600x865.jpeg"
+    },
+    {
+      "id": 30,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404887_havels-600x865.jpeg"
+    },
+    {
+      "id": 31,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404907_ronzille-600x865.jpeg"
+    },
+    {
+      "id": 32,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404905_renee-600x865.jpeg"
+    },
+    {
+      "id": 33,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404881_dr-_sheths-600x865.jpeg"
+    },
+    {
+      "id": 34,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693404876_bella_voste-600x865.jpeg"
+    },
+    {
+      "id": 35,
+      "image": "https://media6.ppl-media.com/tr:w-320,ar-120-173,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693654856_clinique.jpeg"
+    }
+  ],
+  "BUDGET_BUYS": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693398153_lipsticks-copy.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693469775_skincare-6.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-89-121,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693398155_facemakeup-copy.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-89-121,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693398155_facemakeup-copy.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:w-512,ar-89-121,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693398152_haircare-copy.jpg"
+    }
+  ],
+
+  "BEST_LOVED_BRANDS": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399552_beautiliss_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399570_one_on_one_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399548_auravedic_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399551_ay_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399578_savlon_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399549_avarelle_aug-600x865.jpeg"
+    },
+    {
+      "id": 7,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399574_pee_safe_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 8,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693481059_sunsilk_2_aug-600x865-1.jpeg"
+    },
+    {
+      "id": 9,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399577_sanfe-600x865.jpeg"
+    },
+    {
+      "id": 10,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399556_c2p_pro-aug-600x865.jpeg"
+    },
+    {
+      "id": 11,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399562_half_n_half_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 12,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399580_tac_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 13,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399566_kaya_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 14,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399569_nutriglow_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 15,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399559_globus-600x865.jpeg"
+    },
+    {
+      "id": 16,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693462688_organic_harvest_2_aug-600x865.jpeg"
+    },
+    {
+      "id": 17,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399563_iba_aug-600x865.jpeg"
+    },
+    {
+      "id": 18,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693481058_indulekha-600x865-1.jpeg"
+    },
+    {
+      "id": 19,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399576_salon_in_a_box_aug-600x865.jpeg"
+    },
+    {
+      "id": 20,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399555_buds_-_berries_-_aug-600x865.jpeg"
+    },
+    {
+      "id": 21,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399558_glamveda-600x865.jpeg"
+    },
+    {
+      "id": 22,
+      "image": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1693399581_truthsome_-aug-600x865.jpeg"
+    }
+  ],
+  "allbodycare": [
+    {
+      "id": 1,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312734_skincare-5.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312736_makeup-6.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312734_purplle-exclsuive-copy.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312737_bodycare-4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312735_new-launches-6.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://media6.ppl-media.com/tr:w-427,ar-5-3,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1693312736_combos-4.jpg"
+    }
+  ],
+
+  "mango": [
+    {
+      "id": 1,
+      "brand": "Fresho",
+      "name": "Totapuri Mango",
+      "categories": "Mango",
+      "price": 48,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000590_11-fresho-totapuri-mango.jpg",
+      "Quantity": 1,
+
+      "description": "With a parrot-like beak at the fruit tip, greenish yellow skinned Totapuri is a perfect blend of sweetness and tartness.It has a rich aromatic flavour.",
+      "Benefits": "Good for blood and reduces weight It is rich in anti-oxidants."
+    },
+    {
+      "id": 2,
+      "categories": "Mango",
+      "brand": "bb Combo",
+      "name": "Raw Mango",
+      "price": 86.57,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000588_12-fresho-raw-mango.jpg",
+      "Benefits": "Raw mangoes are rich source of Vitamin C, thus it is helpful to cure bleeding gums.Eating piece of raw mango helps to overcome constipation, loose motions and indigestion.",
+      "description": "About the Product Raw mango is a sweet-smelling fruit which is liked by al for its tart flavor The colour varies in shades of greens and the inner flesh is white in colour. Its potent health benefits makes totapuri mango puree concentrate -an important food item It is very rich in Vitamin C. They also have trace amounts of Vitamin B K and E Product image shown is for representation purpose only the actually product may vary based on season produce & availability",
+
+      "Quantity": 1
+    },
+    {
+      "id": 3,
+      "brand": "bb Combo",
+      "name": "Mango - Banganpalli",
+      "price": 351,
+      "categories": "Mango",
+
+      "image": "https://www.bigbasket.com/media/uploads/p/s/1200345_2-bb-combo-mango-banganpalli.jpg",
+
+      "description": "Banganpalli are sourced from Andhra Pradesh and known for their unique sweet and rich taste. They are moderately juicy and aromatic with a maize-yellow colour.",
+
+      "Quantity": 3
+    },
+    {
+      "id": 4,
+      "categories": "Mango",
+      "brand": "Fresho",
+      "name": " Lalbagh Mango",
+      "price": 137,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000306_3-fresho-lalbagh-mango-sindhura.jpg",
+
+      "description": "Popularly known as Rajgira in Karnataka, the soft and juicy fleshed fruit has a distinct appearance with shades of green and red.It is also known as 'Honey Mango' because of its exceptional flavour and sweetness..",
+      "Quantity": 1,
+      "Benefits": "Raw mangoes are rich source of Vitamin C, thus it is helpful to cure bleeding gums.Eating piece of raw mango helps to overcome constipation, loose motions and indigestion."
+    },
+    {
+      "id": 5,
+      "categories": "Mango",
+      "brand": "bb Combo",
+      "name": " Mango - Alphonso",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "price": 661,
+      "image": "https://www.bigbasket.com/media/uploads/p/s/30001006_8-fresho-alphonso-mango-ratnagiri.jpg",
+
+      "description": "Ratnagiri Alphonso Mangoes are superior variety mangoes with regard to its sweetness and aroma.They get their unique fragrance from the salty sea breeze and agro-climatic conditions prevailing in the hills of Ratnagiri.This fruit is bright golden yellow in colour and is oval in shape. We source the best carbide-free Alphonsos directly from the farms of Ratnagiri, Maharashtra.",
+      "Quantity": "6 pcs",
+      "Benefits": "Mangoes are known as the KingFruits because they are loaded with phytochemicals, polyphenols, vitaminscarotenoids, antioxidants, omega-3 and 6 Rich in antioxidants, iron and vitamins, especially A and C, they are great for pregnant women, anaemic and heart patients Regular consumption of mangoes can improve bowel movements and improve digestion"
+    },
+    {
+      "id": 6,
+      "categories": "Mango",
+      "brand": "Fresho",
+      "name": "Mango Tothapuri - Organically Grown",
+      "price": 52.47,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40022249_1-fresho-mango-tothapuri-organically-grown.jpg",
+
+      "description": "These varieties of Mangoes are grown organically, Naturally ripened through hay. Product image shown is for representation purpose only, the actually product may vary based on season, produce & availability.",
+      "Quantity": 1
+    },
+    {
+      "id": 7,
+      "brand": "Fresho",
+      "categories": "Mango",
+      "name": "Raspuri/Gola Mango",
+      "price": 88.6,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000300_3-fresho-raspurigola-mango.jpg",
+
+      "description": "Popularly grown in the Mysore region of Karnataka, Raspuri mangoes have a juicy flesh with rich sweet taste and an excellent flavour.",
+      "Benefits": "Mangoes are known as the KingFruits because they are loaded with phytochemicals, polyphenols, vitaminscarotenoids, antioxidants, omega-3 and 6 Rich in antioxidants, iron and vitamins, especially A and C, they are great for pregnant women, anaemic and heart patients Regular consumption of mangoes can improve bowel movements and improve digestion",
+      "Quantity": 1
+    }
+  ],
+  "dryfruit": [
+    {
+      "id": 1,
+      "name": "Cashew/Godambi - Whole",
+      "brand": "BB Popular",
+      "price": 400,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000551_10-bb-popular-cashewkaju-whole.jpg",
+      "categories": "Cashew",
+      "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+      "Benefits ": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility,",
+
+      "Quantity": "500g"
+    },
+    {
+      "id": 2,
+      "name": "Almond/Badam - Californian, Giri",
+      "price": 335,
+      "categories": "Almond",
+      "brand": "BB Royal",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000549_14-bb-popular-almondbadam-californian-giri.jpg",
+      "description": "Almonds are light brown skinned, tough, edible seeds of the almond fruit.They have a wealthy yet subtle bitter-sweet flavor. These are assets of nutrients, especially protein, dietary fibre, mono-unsaturated fatty acids and B complex vitamins. Also, it is wealthy in vitamin E and minerals such as potassium, calcium, manganese, zinc, iron and selenium.",
+      "Quantity": "500g",
+      "Benefits": "These seeds, being so nutritious promote wellness and possess anti-carcinogenic antioxidant and anti-inflammatory properties. They help treat iron deficiency and menopause, and also hel"
+    },
+    {
+      "id": 3,
+      "name": "Organic - Almond/Badam",
+      "price": 523,
+      "categories": "Almond",
+      "brand": "BB Royal",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40101871_11-bb-royal-organic-almondbadam.jpg",
+      "description": "BB Royal Organic Almonds are of Indian Origin almonds and are sourced from certified organic farms. Straight from our farmer’s fields and into your pantry, almonds are a rich source of Omega-3, antioxidants, vitamins, calcium, iron and magnesium. One of the few nuts having the highest level of good fat that can lower cholesterol levels, almonds should be eaten every day. Considered brain food for kids, almonds can be eaten as is, soaked & peeled or added as a garnish to milk and desserts.",
+      "Quantity": "500g",
+      "Benefits": "Almonds deliver a massive amount of nutrients. Almonds are loaded with antioxidants.Almonds are high in Vitamin E."
+    },
+    {
+      "id": 4,
+      "name": "Walnut/Akhrot - Kernels",
+      "price": 278,
+      "categories": "Walnut",
+      "brand": "BB Popular",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000537_12-bb-popular-walnutakhrot-kernels-chile.jpg",
+      "description": "Walnut Kernels not only add crunch and taste to a dish but they are loaded with nutritional benefits too. Walnut not only tastes great but is a rich source of heart-healthy, fats and an excellent source of those hard-to-find omega 3 fatty acids.",
+      "Quantity": "500g",
+      "Benefits": "Walnut is being crushed often to sprinkle over salads, desserts, particularly sundaes and other ice creams and are also used as seafood toppings."
+    },
+    {
+      "id": 5,
+      "name": "Raisins/Ona Drakshi - Indian",
+      "price": 293,
+      "brand": "BB Royal",
+      "categories": "Raisins",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40021404_10-bb-popular-raisinskishmish-indian.jpg",
+      "description": "It's safe to say that raisins are irreplaceable as a healthy member of the dry fruits category. These golden, green or black delicacies are favourites of almost everyone, particularly children. Raisins are widely used in cultural cooking around the world (especially in desserts) and are also added to health tonics, snacks and compact, high-energy food supplements for mountaineers, backpackers, and campers. By including raisins in your diet helps you increase the level of antioxidants in your system. Raisin varieties depend on the type of grape used and are made in a variety of sizes and colours including green, black, blue, purple and yellow. Value provides you with green raisin with lots of benefits.",
+      "Quantity": "500g",
+      "Benefits": "Raisins contain healthy vitamins and minerals. They are also fat-free and cholesterol-free, high in antioxidants, and an excellent source of fiber. It helps in increasing overall body health and immune system, malnutrition, disease or old age.If taken regularly it will improve body strength and endurance."
+    },
+    {
+      "id": 6,
+      "name": " Organic - Flax Seeds",
+      "price": 41,
+      "categories": "Flax Seeds",
+      "brand": "BB Popular",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40072470_14-bb-royal-organic-flax-seeds.jpg",
+      "description": "Flaxseeds have a mild savor and are well-known for providing strong omega-3 fatty acids and fiber. They have a hard but soft and glossy outer shell. The color of this seed ranges from deep amber to reddish-brown. It has a lukewarm, type of silly and simple flavor.This is cultivated without the use of pesticides, artificial fertilizers or chemicals.",
+      "Quantity": "200g",
+      "Benefits": "Flaxseed is commonly used to improve digestive health or relieve constipation. Flaxseed may also help lower total blood cholesterol and low-density lipoprotein cholesterol"
+    },
+    {
+      "id": 7,
+      "name": "Almond/Badam - Californian, Giri Bol",
+      "price": 944,
+      "brand": "BB Royal",
+      "categories": "Almond",
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40088564_8-bb-royal-almondbadam-californian-giri.jpg",
+      "description": "California Almonds are bite-sized all-rounders when it comes to keeping you young & fit. It's food for the brain, keeping your memory sharp. They are packed full of nutrients.The wholesome constituents of these nuts provide the required amount of energy to the body and help maintain brain health.",
+      "Quantity": "500g",
+      "Benefits": "Almonds deliver a massive amount of nutrients. Almonds are loaded with antioxidants. Almonds are high in Vitamin E.Almonds can assist with blood sugar control.Almonds can lower cholesterol levels."
+    },
+    {
+      "id": 8,
+      "name": "Mixed Dry fruits",
+      "categories": "Almond",
+      "brand": "BB Royal",
+      "price": 639,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000532_5-bb-royal-raisinskishmish-seedless.jpg",
+      "description": "Mixed dry fruits are considered rich suppliers of nutrients and are real delicacies Fruits present in the pack are Almonds, Raisins, Figs, Plain Pista, and Cashews. Dry fruits are hygienically processed and made ready to be consumed raw or used in various food items to make them tasty.",
+      "Quantity": 1,
+      "Benefits": "Dry fruits are a great source of proteins, vitamins, minerals, dietary fiber, and an ideal substitute for high-calorie snacks.Rich in proteins, vitamins, minerals and dietary fiber, dry fruits make for a delicious and healthy snack."
+    },
+    {
+      "id": 9,
+      "name": "Cashew/Godambi - Whole",
+      "brand": "BB Royal",
+      "categories": "Cashew",
+      "price": 1083,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40046738_6-bb-royal-cashewkaju-whole.jpg",
+      "description": "Cashews are a kidney-shaped seed sourced from the cashew tree. Cashews provide an excellent source of protein. Cashews are cholesterol-free and a great supply of antioxidants that will keep you away from heart diseases. The fat content in cashew nuts is low.",
+      "Quantity": 1,
+      "Benefits": "Dry fruits are a great source of proteins, vitamins, minerals, dietary fiber, and an ideal substitute for high-calorie snacks.Rich in proteins, vitamins, minerals and dietary fiber, dry fruits make for a delicious and healthy snack."
+    }
+  ],
+  "freshfruit": [
+    {
+      "id": 1,
+      "brand": "Fresho",
+      "name": " Tender Coconut",
+      "price": 194,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/1221868_1-fresho-tender-coconut.jpg",
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 2,
+      "brand": "Fresho",
+      "name": "Fresho Pomegranate Regular",
+      "price": 174,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40120006_5-fresho-pomegranate-small.jpg",
+
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 3,
+      "brand": "  Fresho",
+      "name": " Grapes - Green Sonaka",
+      "price": 41,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40218332_1-fresho-grapes-green.jpg",
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones.",
+      "Quantity": 1
+    },
+    {
+      "id": 4,
+      "brand": "  Fresho",
+      "name": "Banana - Yelakki",
+      "price": 104,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000031_21-fresho-banana-yelakki.jpg",
+
+      "Quantity": 1,
+
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 5,
+      "brand": "Fresho",
+      "name": "Orange - Nagpur, Regular",
+      "price": 214,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/1222182_1-fresho-orange-nagpur-regular.jpg",
+
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 6,
+      "brand": "  Fresho",
+      "name": "Apple shimla",
+      "price": 115,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/40033819_29-fresho-apple-shimla.jpg",
+
+      "Quantity": 4,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 7,
+      "brand": "BB Royal",
+      "name": "Watermelon",
+      "price": 71,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000207_24-fresho-watermelon-small.jpg",
+
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 8,
+      "brand": "BB Royal",
+      "name": "Coconut",
+      "price": 25,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/10000093_16-fresho-coconut-medium.jpg",
+
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    },
+    {
+      "id": 9,
+      "brand": "BB Popular",
+      "name": "Kiwi",
+      "price": 73,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/20000911_30-fresho-kiwi-green.jpg",
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones.",
+      "Quantity": 1
+    },
+    {
+      "id": 10,
+      "brand": "BB Popular",
+      "name": "Blueberry",
+      "price": 148,
+      "deliver": "Standard: Tomorrow 9:00AM - 1:30PM",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/30009286_7-fresho-blueberry.jpg",
+
+      "Quantity": 1,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.",
+      "Benefits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases Good for weight loss and to maintain hair and skin health.They also improve mental health and maintain healthy bones."
+    }
+  ],
+
+  "allproducts": [
+    {
+      "id": 1,
+      "name": "Fresho Tomato - Hybrid (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/489555238/photo/tomato-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=2z-Ln2cFwERRbYNiyfzsD9v5RpQJpOYFFQ6kILUlTlc=",
+      "rating": 4.5,
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Fresho Potato (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1173936233/photo/young-potato.jpg?s=612x612&w=0&k=20&c=pmgsK4bOOQZ98xLQBmXkER9ofxDi5PpV8VkqiTYrzwc=",
+      "rating": 4.7,
+      "price": 42
+    },
+    {
+      "id": 3,
+      "name": "Fresho Chilli - Green Long, Medium (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1388424243/photo/green-chili-pepper-isolated-on-white-background-with-clipping-path.jpg?s=612x612&w=0&k=20&c=c0wMRVbcxZiilD3bNnXA8CAl8wBlNT4GMAs-6k62_GY=",
+      "rating": 4.3,
+      "price": 63
+    },
+    {
+      "id": 4,
+      "name": "Fresho Capsicum - Green (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1029686488/photo/two-green-bell-peppers-isolated-on-a-plain-white-background.jpg?s=612x612&w=0&k=20&c=Aizo6Am6LvnVCOEKqBZATw4T6_RI785mIHmFE0J1GrM=",
+      "rating": 4.4,
+      "price": 70
+    },
+    {
+      "id": 5,
+      "name": "Fresho Ginger (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1350548698/photo/fresh-ginger-rhizome-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=VmueWVavrFy15l4Ft8aSGnNzdiFxluj88ZLqap5-SMs=",
+      "rating": 4.6,
+      "price": 85
+    },
+    {
+      "id": 6,
+      "name": "Fresho Garlic (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/511800020/photo/garlic-and-garlic-clove.jpg?s=612x612&w=0&k=20&c=PiKpDsQPvS1ilbPQf-tJAnb1vzqMxoSbHebsOnxkzgQ=",
+      "rating": 4.3,
+      "price": 115
+    },
+    {
+      "id": 7,
+      "name": "Fresho Cauliflower, 1 pc (approx. 400 to 600 g)",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/689636566/photo/cauliflower.jpg?s=612x612&w=0&k=20&c=LUEXrn7IBJ2gSi_cqhOO7OSVmKMrvVmHAZpkA_SH8ls=",
+      "rating": 4.3,
+      "price": 15
+    },
+    {
+      "id": 8,
+      "name": "Fresho Cabbage, 1 pc (approx. 500 g to 800 g)",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/531009780/photo/green-cabbage.jpg?s=612x612&w=0&k=20&c=LLBTHOYDRlZSlWct-A_DJDuvVibQNr5ZvBV-c6J4b_s=",
+      "rating": 4.1,
+      "price": 12
+    },
+    {
+      "id": 9,
+      "name": "Fresho Coriander Leaves, 250 g",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.5,
+      "price": 20
+    },
+    {
+      "id": 10,
+      "name": "Fresho Lemon - Organically Grown (Loose), 4 pcs",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.4,
+      "price": 18
+    },
+    {
+      "id": 11,
+      "name": "Fresho Carrot - Orange (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.7,
+      "price": 45
+    },
+    {
+      "id": 12,
+      "name": "Fresho Cucumber - English (Loose), 500 g",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/517364225/photo/fresh-cucumber-on-white-background.jpg?s=612x612&w=0&k=20&c=xxwKk56nZvBex-Yrvc_E2BZIrdWjHNQQ5ZPfFUkMA5Q=",
+      "rating": 4.3,
+      "price": 26
+    },
+    {
+      "id": 13,
+      "name": "Fresho Pumpkin - Disco, 1 pc",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/148854223/photo/pumpkin.jpg?s=612x612&w=0&k=20&c=bOwEumA19yo9pPFVRbEfPj6txnw2BFhgoda36impC9o=",
+      "rating": 4.2,
+      "price": 27
+    },
+    {
+      "id": 14,
+      "name": "Fresho Onion (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/511852530/photo/carefully-selected-onions.jpg?s=612x612&w=0&k=20&c=aJOOvNUYojyBj-oiNlJmDq7A2f6ng0kgtUNg_l-fq-I=",
+      "rating": 4.6,
+      "price": 29
+    },
+    {
+      "id": 15,
+      "name": "Fresho Mushrooms - Button, 1 pack (Approx .180g - 200 g)",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/503194577/photo/few-mushrooms-sliced-%C3%A2%C3%A2one-isolated.jpg?s=612x612&w=0&k=20&c=HQ3dMfWmEEKTIs6dOgnRiBXkmAVHD1shIN-c2Tjyrr4=",
+      "rating": 4.4,
+      "price": 46
+    },
+    {
+      "id": 16,
+      "name": "Tata Tea Gold Tea, 100 g",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/264565_4-tata-tea-gold-tea.jpg",
+      "rating": 4.3,
+      "price": 40
+    },
+    {
+      "id": 17,
+      "name": "Red Label Tea, 250 g Carton",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/102871_11-red-label-tea.jpg",
+      "rating": 4.1,
+      "price": 135
+    },
+    {
+      "id": 18,
+      "name": "Tata Tea Agni Special Blend Tea - 10% Extra Strong Leaves, Perfect Aroma & Taste, 250 g Pack",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/263613_4-tata-tea-agni-leaf-tea.jpg",
+      "rating": 4.1,
+      "price": 100
+    },
+    {
+      "id": 19,
+      "name": "Taj Mahal Tea, 250 g",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/137936_11-taj-mahal-tea.jpg",
+      "rating": 4.0,
+      "price": 216
+    },
+    {
+      "id": 20,
+      "name": "Lipton Honey Lemon Green Tea Bags, 35 g (25 Bags x 1.4 g each)",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40024618_10-lipton-lemon-zest-green-tea-bags.jpg",
+      "rating": 4.3,
+      "price": 146
+    },
+    {
+      "id": 21,
+      "name": "Tetley Long Leaf Original Green Tea - Rich Source Of Antioxidants, Detoxifies Body, 100 g",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40176777_5-tetley-long-leaf-green-tea-lemon.jpg",
+      "rating": 4.1,
+      "price": 138
+    },
+    {
+      "id": 22,
+      "name": "Teabox Hibiscus Cinnamon Clove Green Tea Bags - Supports Heart Health, M Natural Hibiscus, Antioxidants Rich, 54 g (25+2 Free Bags x 2 g each)",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40176777_5-tetley-long-leaf-green-tea-lemon.jpg",
+      "rating": 4.4,
+      "price": 226
+    },
+    {
+      "id": 23,
+      "name": "Emperia Earl Grey Black Tea, 20 g (10 Bags X 2 g each)",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40178013_12-emperia-earl-grey-black-tea.jpg",
+      "rating": 4.2,
+      "price": 146
+    },
+    {
+      "id": 24,
+      "name": "Marvel Tea Masala Chai, 250 g",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40120908_2-marvel-tea-masala-chai.jpg",
+      "rating": 3.9,
+      "price": 99
+    },
+    {
+      "id": 25,
+      "name": "Vaggan Tea Luxury Elaichi Tea, 100 g",
+      "category": "Tea",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40229606_1-vaggan-tea-luxury-elaichi-tea.jpg",
+      "rating": 4.0,
+      "price": 55
+    },
+    {
+      "id": 26,
+      "name": "Tata Salt Iodized, 1 kg Pouch",
+      "category": "Salt",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/241600_5-tata-salt-iodized.jpg",
+      "rating": 4.2,
+      "price": 24
+    },
+    {
+      "id": 27,
+      "name": "Aashirvaad Salt/Uppu - Iodised, 1 kg Pouch",
+      "category": "Salt",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/236834_5-aashirvaad-salt-iodised.jpg",
+      "rating": 4.2,
+      "price": 23
+    },
+    {
+      "id": 28,
+      "name": "Tata Salt Super Lite Iodized Salt - 30 % Less Sodium, 1 Kg",
+      "category": "Salt",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40218597_5-tata-salt-super-lite-iodized-salt-30-less-sodium.jpg",
+      "rating": 4.2,
+      "price": 51
+    },
+    {
+      "id": 29,
+      "name": "Sri Sri Tattva Rock Salt 1Kg - Sendha Namak for a Healthy Life",
+      "category": "Salt",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40216160_4-sri-sri-tattva-rock-salt.jpg",
+      "rating": 4.0,
+      "price": 108
+    },
+    {
+      "id": 30,
+      "name": "Keya Himalayan Kala Namak, 200 g",
+      "category": "Salt",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40158060_3-keya-himalayan-kala-namak.jpg",
+      "rating": 4.2,
+      "price": 42
+    },
+    {
+      "id": 31,
+      "name": "Saffola Tasty Refined Cooking oil | Blended Rice bran & Corn oil | Pro Fitness Conscious, 1 L Pouch",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/100554_8-saffola-tasty-refined-cooking-oil-blended-rice-bran-corn-oil-pro-fitness-conscious.jpg",
+      "rating": 4.1,
+      "price": 158
+    },
+    {
+      "id": 32,
+      "name": "Sunpure Refined - Sunflower Oil, 1 L Pouch",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/274120_4-sunpure-refined-sunflower-oil.jpg",
+      "rating": 4.2,
+      "price": 164
+    },
+    {
+      "id": 33,
+      "name": "Sunpure Rice Bran Health Physically Refined Rice Bran Oil - Contains Natural Oryzanol & Natural Vitamins, 1 L Pouch",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40076934_3-sunpure-rice-bran-oil.jpg",
+      "rating": 4.1,
+      "price": 156
+    },
+    {
+      "id": 34,
+      "name": "Dhara Life Refined Rice Bran Oil - Fortified with Vitamin A & Vitamin D2, 5 L Can",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/70001270_12-dhara-refined-oil-rice-bran.jpg",
+      "rating": 4.1,
+      "price": 885
+    },
+    {
+      "id": 35,
+      "name": "Fortune Sunflower Refined Oil - Sun Lite, 3x910 g Multipack",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1204455_2-fortune-sunflower-refined-oil-sun-lite.jpg",
+      "rating": 4.1,
+      "price": 468
+    },
+    {
+      "id": 36,
+      "name": "Fortune Premium Kachi Ghani Pure Mustard Oil, 1L Pet Bottle",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/276756_8-fortune-fortune-premium-kachi-ghani-pure-mustard-oil.jpg",
+      "rating": 4.1,
+      "price": 200
+    },
+    {
+      "id": 37,
+      "name": "Bertolli Bertolli Extra Virgin Olive Oil- 100% Natural and Cold Extracted- Perfect for Salad, Dips, Marinade-Italian Brand World no 1- From the makers of Figaro- 500ml + 500ml Bottle, 500 ml (Buy 1 Get 1)",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40213718_1-bertolli-extra-virgin-olive-oil.jpg",
+      "rating": 3.8,
+      "price": 799
+    },
+    {
+      "id": 38,
+      "name": "Bertolli Bertolli Extra Light Tasting Olive Oil- Deep Frying- Neutral Taste-Deep Fry, Shallow Fry -Italian Brand World no 1- From the makers of Figaro-500ml Bottle, 500 ml Bottle",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40011510_4-bertolli-extra-virgin-olive-oil.jpg",
+      "rating": 4.2,
+      "price": 449
+    },
+    {
+      "id": 39,
+      "name": "Mr. Gold Filtered Groundnut Oil, 1 L Pouch",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40013920_6-mr-gold-groundnut-oil.jpg",
+      "rating": 4.1,
+      "price": 177
+    },
+    {
+      "id": 40,
+      "name": "Anveshan Wood Cold Pressed Groundnut/Peanut Cooking Oil, 1 L Plastic Bottle",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40275688_1-anveshan-wood-cold-pressed-groundnutpeanut-cooking-oil.jpg",
+      "rating": 3.5,
+      "price": 425
+    },
+    {
+      "id": 41,
+      "name": "Fortune Xpert - Total Balance Oil, Blend Of Rice Bran, Soyabean & Flaxseeds, Rich In Omega 3, 1 L Pouch",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40239287_2-fortune-xpert-total-balance-oil-blend-of-rice-bran-soyabean-flaxseeds-rich-in-omega-3.jpg",
+      "rating": 4.4,
+      "price": 159
+    },
+    {
+      "id": 42,
+      "name": "Parachute Pure Coconut Oil, 300 ml Bottle",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40132873_2-parachute-pure-coconut-oil.jpg",
+      "rating": 4.2,
+      "price": 109
+    },
+    {
+      "id": 43,
+      "name": "Kapiva Kerala Virgin Coconut Oil - 100% Organic, Cold-Pressed, 500 ml",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40185106_3-kapiva-kerala-virgin-coconut-oil.jpg",
+      "rating": 4.3,
+      "price": 280
+    },
+    {
+      "id": 44,
+      "name": "Anveshan Wood Cold Pressed Coconut Cooking Oil - For Hair & Massage, 1 L Glass Bottle",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40206827_1-anveshan-wood-pressed-coconut-oil.jpg",
+      "rating": 2.0,
+      "price": 622
+    },
+    {
+      "id": 45,
+      "name": "24 Mantra Safflower Oil - Expeller Pressed, Unrefined, Double Filtered, 1 L`",
+      "category": "Oil",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40240041_1-24-mantra-organic-safflower-oil-expeller-pressed-unrefined-double-filtered.jpg",
+      "rating": 3.5,
+      "price": 430
+    },
+    {
+      "id": 46,
+      "name": "Everest Sabji Masala, 50 g Carton",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/282201_5-everest-sabji-masala.jpg",
+      "rating": 4.2,
+      "price": 34
+    },
+    {
+      "id": 47,
+      "name": "Everest Powder - Green Coriander, 200 g Pouch",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/100004183_3-everest-powder-green-coriander.jpg",
+      "rating": 4.2,
+      "price": 70
+    },
+    {
+      "id": 48,
+      "name": "Everest Turmeric Powder/Arisina Pudi, 200 g Pouch",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/100004165_3-everest-powder-turmeric.jpg",
+      "rating": 4.2,
+      "price": 62
+    },
+    {
+      "id": 49,
+      "name": "Everest Chicken Masala, 50 g Carton",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/268076_2-everest-chicken-masala.jpg",
+      "rating": 4.2,
+      "price": 43
+    },
+    {
+      "id": 50,
+      "name": "Everest Powder - Cumin, 100 g Carton",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/271130_5-everest-powder-cumin.jpg",
+      "rating": 4.2,
+      "price": 70
+    },
+    {
+      "id": 51,
+      "name": "Everest Masala - Chat, 200 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40128826_5-everest-masala-chat.jpg",
+      "rating": 4.2,
+      "price": 152
+    },
+    {
+      "id": 52,
+      "name": "Everest Powder - Tikhalal Chilli, 200 g Pouch",
+      "category": "Masala",
+      "image": "Everest Masala - Chat, 200 g",
+      "rating": 4.2,
+      "price": 105
+    },
+    {
+      "id": 53,
+      "name": "MTR Masala - Sambar Powder, 200 g Pouch",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40001451_6-mtr-masala-sambar-powder.jpg",
+      "rating": 4.1,
+      "price": 111
+    },
+    {
+      "id": 54,
+      "name": "Chings Secret Schezwan Fried Rice Masala, 20 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20006010_7-chings-secret-schezwan-fried-rice-masala.jpg",
+      "rating": 4.2,
+      "price": 10
+    },
+    {
+      "id": 55,
+      "name": "Smith & Jones Pasta Masala, 9 g pouch",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40223950_1-smith-jones-pasta-masala.jpg",
+      "rating": 4.3,
+      "price": 5
+    },
+    {
+      "id": 56,
+      "name": "Aashirvaad Shahi Garam Masala - With Exotic Spices, 100 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40200515_5-aashirvaad-shahi-garam-masala.jpg",
+      "rating": 4.1,
+      "price": 76
+    },
+    {
+      "id": 57,
+      "name": "Everest Masala - Kitchen King, 500 g Carton",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/206775_2-everest-masala-kitchen-king.jpg",
+      "rating": 4.2,
+      "price": 375
+    },
+    {
+      "id": 58,
+      "name": "Mdh Chicken Biryani Masala, 50 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40200942_2-mdh-chicken-biryani-masala.jpg",
+      "rating": 4.3,
+      "price": 55
+    },
+    {
+      "id": 59,
+      "name": "Everest Masala - Shahi Paneer, 50 g Carton",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/30002498_5-everest-masala-shahi-paneer.jpg",
+      "rating": 4.2,
+      "price": 47
+    },
+    {
+      "id": 60,
+      "name": "JK Powder - Shahi Garam Masala, 50 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40053393_2-jk-powder-shahi-garam-masala.jpg",
+      "rating": 4.3,
+      "price": 70
+    },
+    {
+      "id": 61,
+      "name": "Stories Chicken Malai Tikka Mix - Aromatic Spices Blend, No Artificial Flavours, 50 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40251964_1-stories-chicken-malai-tikka-mix-aromatic-spices-blend-no-artificial-flavours.jpg",
+      "rating": 4.0,
+      "price": 59
+    },
+    {
+      "id": 62,
+      "name": "Ceres Foods Kashmiri Rogan Josh Instant Liquid Masala - Ready To Cook Indian Curry Cooking Paste, 200 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40268902_2-moi-soi-ready-curry-mix-rogan-josh-authentic-taste-great-flavours.jpg",
+      "rating": 3.9,
+      "price": 183
+    },
+    {
+      "id": 63,
+      "name": "Tata Sampann Masala - Pav Bhaji, 45 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40095118_4-tata-sampann-masala-pav-bhaji.jpg",
+      "rating": 4.2,
+      "price": 43
+    },
+    {
+      "id": 64,
+      "name": "Aashirvaad Punjabi Chole Masala - Spice Blend, 100 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40200513_5-aashirvaad-punjabi-chole-masala.jpg",
+      "rating": 4.2,
+      "price": 62
+    },
+    {
+      "id": 65,
+      "name": "MTR Gojju Magic Masala Powder, 60 g",
+      "category": "Masala",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40191226_1-mtr-gojju-magic-masala-powder.jpg",
+      "rating": 4.1,
+      "price": 48
+    },
+    {
+      "id": 66,
+      "name": "iD Fresho Idly Dosa Batter, 2x1 kg Multipack",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1208825_3-id-fresho-idly-dosa-batter.jpg",
+      "rating": 3.9,
+      "price": 85
+    },
+    {
+      "id": 67,
+      "name": "Hallimane 2-In-1 Idli Dosa Batter, 1 Kg",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40096746_2-hallimane-2-in-1-idli-dosa-batter.jpg",
+      "rating": 4.0,
+      "price": 75
+    },
+    {
+      "id": 68,
+      "name": "Cadbury Dairy Milk Silk Fruit & Nut Chocolate Bar, 3X137 g Multipack",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1214951_1-cadbury-dairy-milk-silk-fruit-nut-chocolate-bar.jpg",
+      "rating": 4.2,
+      "price": 499
+    },
+    {
+      "id": 69,
+      "name": "MAGGI 2-Min Masala Instant Noodles, 420 g Pouch",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/266112_18-maggi-2-minute-instant-noodles-masala.jpg",
+      "rating": 4.1,
+      "price": 75
+    },
+    {
+      "id": 70,
+      "name": "Cadbury Dairy Milk Chocolate, 24 g Pouch",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/281026_8-cadbury-dairy-milk-chocolate.jpg",
+      "rating": 4.1,
+      "price": 19
+    },
+    {
+      "id": 71,
+      "name": "Britannia NutriChoice Digestive High Fibre Biscuits - Made From Whole Wheat & Bran, Healthy Snack, 100 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/100012345_11-britannia-nutrichoice-digestive-high-fibre-biscuits.jpg",
+      "rating": 4.1,
+      "price": 19
+    },
+    {
+      "id": 72,
+      "name": "Britannia Bourbon - The Original Choco Creme Sandwich Biscuit, 150 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/263593_14-britannia-bourbon-chocolate-cream-biscuits.jpg",
+      "rating": 4.2,
+      "price": 34
+    },
+    {
+      "id": 73,
+      "name": "iD Fresho Idly Dosa Batter, 1 Kg + Whole Wheat Parota, 400 g, Combo 2 Items",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1214117_1-id-fresho-idly-dosa-batter-1-kg-whole-wheat-parota-350-g.jpg",
+      "rating": 4.2,
+      "price": 160
+    },
+    {
+      "id": 74,
+      "name": "iD Fresho Idly Dosa Batter, 1 Kg + Malabar Parota, 400 g, Combo 2 Items",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1214118_1-id-fresho-idly-dosa-batter-1-kg-malabar-parota-350-g.jpg",
+      "rating": 4.3,
+      "price": 155
+    },
+    {
+      "id": 75,
+      "name": "Tasties Nacho Chips - Jalapeno, 60 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40196815_2-tasties-nacho-chips-jalapeno.jpg",
+      "rating": 3.9,
+      "price": 28
+    },
+    {
+      "id": 76,
+      "name": "Haldirams Namkeen - Bhujia Sev, 1 kg Pouch",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/s/100022552_1-haldirams-namkeen-bhujia-sev.jpg",
+      "rating": 4.1,
+      "price": 217
+    },
+    {
+      "id": 77,
+      "name": "Tasties Nacho Chips - Peri-Peri, 60 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40196821_4-tasties-nacho-chips-peri-peri.jpg",
+      "rating": 3.9,
+      "price": 24
+    },
+    {
+      "id": 78,
+      "name": "Haldirams Instant Bhel - Spicy Blend Of Chick Peas, Lentils, Peanuts & Puff Rice, 44 g Pouch",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20004456_1-haldirams-instant-bhel.jpg",
+      "rating": 4.2,
+      "price": 10
+    },
+    {
+      "id": 79,
+      "name": "Potatoes - Fingerling 4 Oz",
+      "category": "Fire Protection",
+      "image": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+      "rating": 1,
+      "price": 426
+    },
+    {
+      "id": 80,
+      "name": "Lays Potato Chips - American Style Cream & Onion Flavour, 2 x 157 g Multipack",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212775_4-lays-potato-chips-american-style-cream-onion-flavour.jpg",
+      "rating": 4.3,
+      "price": 109
+    },
+    {
+      "id": 81,
+      "name": "Bingo Tedhe Medhe Snacks - With Corn, Rice, Dal, Masala Tadka, 2x90 g Multipack",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "http://dummyimage.com/178x100.png/cc0000/ffffff",
+      "rating": 4.1,
+      "price": 29
+    },
+    {
+      "id": 82,
+      "name": "Parle Gluco Biscuits - Parle-G, 50 g Pouch",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40019272_2-parle-gluco-biscuits-parle-g.jpg",
+      "rating": 4.2,
+      "price": 5
+    },
+    {
+      "id": 83,
+      "name": "Kelloggs Muesli Breakfast Cereal - With Multigrain & 21% Fruit, Nut & Seeds, 750 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40189244_5-kelloggs-muesli-breakfast-cereal-with-multigrain-21-fruit-nut-seeds.jpg",
+      "rating": 4.2,
+      "price": 415
+    },
+    {
+      "id": 84,
+      "name": "Kelloggs Corn Flakes With Real Almond & Honey, 300 g",
+      "category": "SNACKS & BRANDED FOODS",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/192941_7-kelloggs-corn-flakes-with-real-almond-honey.jpg",
+      "rating": 4.3,
+      "price": 157
+    },
+    {
+      "id": 85,
+      "name": "Cadbury Bournville Rich Cocoa Dark Chocolate Bar, 3x80 g Multipack",
+      "category": "4.2",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1203265_5-cadbury-bournville-rich-cocoa-dark-chocolate-bar.jpg",
+      "rating": 4.2,
+      "price": 279
+    },
+    {
+      "id": 86,
+      "name": "Fresho Farm Eggs - Regular, Medium, Antibiotic Residue-Free, 6 pcs",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+      "rating": 4.5,
+      "price": 49
+    },
+    {
+      "id": 87,
+      "name": "Fresho Chicken - Curry Cut Without Skin, Antibiotic Residue-Free, 6 To 9 Pcs, 250 g",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000909_8-fresho-chicken-curry-cut-without-skin-antibiotic-residue-free.jpg",
+      "rating": 4.0,
+      "price": 119
+    },
+    {
+      "id": 88,
+      "name": "Fresho Chicken Breast - Boneless, Antibiotic Residue-Free, 2- 4 pcs, 500 g",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000900_10-fresho-chicken-breast-boneless-antibiotic-residue-free-4-5-pcs.jpg",
+      "rating": 4.2,
+      "price": 219
+    },
+    {
+      "id": 89,
+      "name": "Fresho Chicken Curry Cut Without Skin 500 g + Chicken Drumstick Without Skin 500 g, Combo 2 Items",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1221159_1-fresho-chicken-curry-cut-without-skin-500-g-chicken-drumstick-without-skin-500-g.jpg",
+      "rating": 4.1,
+      "price": 372
+    },
+    {
+      "id": 90,
+      "name": "Fresho Chicken Curry Cut Without Skin 500 g + Rohu Fish Large Curry Cut 500 g, Combo 2 Items",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1221166_1-fresho-chicken-curry-cut-without-skin-500-g-rohu-fish-large-curry-cut-500-g.jpg",
+      "rating": 3.9,
+      "price": 325
+    },
+    {
+      "id": 91,
+      "name": "Fresho Chicken Curry Cut Without Skin 500 g + Catla Fish Large Curry Cut 500 g, Combo 2 Items",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1221167_1-fresho-chicken-curry-cut-without-skin-500-g-catla-fish-large-curry-cut-500-g.jpg",
+      "rating": 3.9,
+      "price": 353
+    },
+    {
+      "id": 92,
+      "name": "Fresho Chicken Curry Cut Without Skin 500 g + Prawns, Peeled & Deveined 500 g, Combo 2 Items",
+      "category": "Overhead Doors",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1221164_1-fresho-chicken-curry-cut-without-skin-500-g-prawns-peeled-deveined-500-g.jpg",
+      "rating": 3.8,
+      "price": 705
+    },
+    {
+      "id": 93,
+      "name": "Fresho Chicken Curry Cut 1kg + Seer Fish Slice/Steaks 500 g, Combo 2 Items",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1215095_1-fresho-chicken-curry-cut-1kg-seer-fish-slicesteaks-500-g.jpg",
+      "rating": 4.0,
+      "price": 1242
+    },
+    {
+      "id": 94,
+      "name": "Fresho Chicken Bones, 1 Kg",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40188266_2-fresho-chicken-bones.jpg",
+      "rating": 3.8,
+      "price": 39
+    },
+    {
+      "id": 95,
+      "name": "Fresho Rohu Fish Curry Cut/Bengali Cut, 1 kg Without Head",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40119262_1-fresho-rohu-cut-pieces-medium.jpg  ",
+      "rating": 4.2,
+      "price": 459
+    },
+    {
+      "id": 96,
+      "name": "Fresho Catla Fish Curry Cut/Bengali Cut, 500 g With Head",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/20000962_4-fresho-catla-fish-large-curry-cutbengali-cut-preservative-free.jpg",
+      "rating": 4.1,
+      "price": 229
+    },
+    {
+      "id": 97,
+      "name": "Fresho Tandoori size whole Chicken, With Skin, 1 pc",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40085986_1-fresho-tandoori-size-whole-chicken-with-skin.jpg",
+      "rating": 4.3,
+      "price": 299
+    },
+    {
+      "id": 98,
+      "name": "Fresho Chicken Leg - Without Skin, Antibiotic Residue-Free,1 To 2 pcs, 250 g",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/10000913_7-fresho-chicken-leg-without-skin-antibiotic-residue-free.jpg",
+      "rating": 4.5,
+      "price": 119
+    },
+    {
+      "id": 99,
+      "name": "Fresho Prawns, Peeled & Deveined, 20 To 30 pcs, 500 g (Gross Fish Weight 1-1 kg, Net Weight After Cleaning 500 g)",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40033805_2-fresho-prawns-peeled-deveined.jpg",
+      "rating": 4.2,
+      "price": 600
+    },
+    {
+      "id": 100,
+      "name": "Fresho Kolkata/Bengali Hilsa Fish - Cut Pieces, Large, 250 g",
+      "category": "EGGS, MEAT & FISH",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40088541_1-fresho-hilsa-fish-cut-pieces-large.jpg",
+      "rating": 4.7,
+      "price": 649
+    },
+    {
+      "id": 101,
+      "name": "Harpic Disinfectant Toilet Cleaner Liquid, Original, 500 ml",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/263754_15-harpic-power-plus-disinfectant-toilet-cleaner-liquid-original.jpg",
+      "rating": 4.2,
+      "price": 88
+    },
+    {
+      "id": 102,
+      "name": "Surf Excel Detergent - Liquid, Matic, Front Load, 2 L Pouch",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40130610_3-surf-excel-detergent-liquid-matic-front-load.jpg",
+      "rating": 4.2,
+      "price": 396
+    },
+    {
+      "id": 103,
+      "name": "Vim Dishwash Bar - Lemon, 200 g (Pack of 3)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/266969_9-vim-dishwash-bar-lemon.jpg",
+      "rating": 4.1,
+      "price": 58
+    },
+    {
+      "id": 104,
+      "name": "Surf Excel Easy Wash Detergent Powder, 1.5 kg",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/266945_21-surf-excel-easy-wash-detergent-powder.jpg",
+      "rating": 4.2,
+      "price": 200
+    },
+    {
+      "id": 105,
+      "name": "bb Combo Harpic Disinfectant Toilet Cleaner Original200ml+Lizol Floor Cleaner Citrus200ml, Combo 2 Items",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1204983_8-bb-combo-harpic-disinfectant-toilet-cleaner-original200mllizol-floor-cleaner-citrus200ml.jpg",
+      "rating": 4.0,
+      "price": 80
+    },
+    {
+      "id": 106,
+      "name": "Harpic Disinfectant Bathroom Cleaner Liquid - Lemon, 1 L (Pack of 2)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1208843_6-harpic-disinfectant-bathroom-cleaner-liquid-lemon.jpg",
+      "rating": 4.3,
+      "price": 355
+    },
+    {
+      "id": 107,
+      "name": "Tide Plus Detergent Washing Powder - Extra Power Jasmine & Rose, 1 kg",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/264009_13-tide-plus-detergent-washing-powder-extra-power-jasmine-rose.jpg",
+      "rating": 4.3,
+      "price": 136
+    },
+    {
+      "id": 108,
+      "name": "Comfort After Wash Morning Fresh Fabric Conditioner, 860 ml",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/230745_18-comfort-after-wash-morning-fresh-fabric-conditioner.jpg",
+      "rating": 4.3,
+      "price": 200
+    },
+    {
+      "id": 109,
+      "name": "Rin Detergent Bar, 110 g",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40002071_15-rin-rin-detergent-bar.jpg",
+      "rating": 4.1,
+      "price": 10
+    },
+    {
+      "id": 110,
+      "name": "Vim Dishwash Liquid Gel - Lemon, 750 ml Bottle",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/307195_18-vim-dishwash-liquid-gel-lemon.jpg",
+      "rating": 4.3,
+      "price": 173
+    },
+    {
+      "id": 111,
+      "name": "HIT Cockroach Killer Spray, 400 ml",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40007017_2-hit-cockroach-killer-spray.jpg",
+      "rating": 4.3,
+      "price": 206
+    },
+    {
+      "id": 112,
+      "name": "Godrej Aer Power Pocket - Bathroom Air Fragrance, Assorted, 10 g (Pack of 5)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40122556_5-godrej-aer-power-pocket-bathroom-air-fragrance-assorted.jpg",
+      "rating": 4.1,
+      "price": 276
+    },
+    {
+      "id": 113,
+      "name": "Dettol Liquid Disinfectant Cleaner for Home - Lime Fresh, 2x500 ml Multipack",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212007_5-dettol-liquid-disinfectant-cleaner-for-home-lime-fresh.jpg",
+      "rating": 4.3,
+      "price": 311
+    },
+    {
+      "id": 114,
+      "name": "Vanish All In One Powder Detergent Booster, 400 g (Pack of 2)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1201639_7-vanish-all-in-one-colour-safe-detergent-booster-oxi-action.jpg",
+      "rating": 4.3,
+      "price": 370
+    },
+    {
+      "id": 115,
+      "name": "Genteel Liquid Detergent - Strong Formula, No Residue, Soft On Hands, 1 kg (Pack of 2)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/100017599_14-genteel-genteel-liquid-detergent.jpg",
+      "rating": 4.2,
+      "price": 303
+    },
+    {
+      "id": 116,
+      "name": "Nimyle Herbal Floor Cleaner, 2 L",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40056692_5-nimyle-floor-cleaner-herbal.jpg",
+      "rating": 4.3,
+      "price": 216
+    },
+    {
+      "id": 117,
+      "name": "HIT Mosquito & Fly Killer Spray, 700 ml",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40183659_4-hit-mosquito-fly-killer-spray.jpg",
+      "rating": 4.2,
+      "price": 366
+    },
+    {
+      "id": 118,
+      "name": "bb Combo Colin Cleaner - Glass & Household 500 ml + Scotch Brite Sponge Wipe Large 1 pc, Combo 2 Items",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1208166_4-bb-combo-colin-cleaner-glass-and-household-500-ml-scotch-brite-sponge-wipe-large-1-pc.jpg",
+      "rating": 4.1,
+      "price": 164
+    },
+    {
+      "id": 119,
+      "name": "Savlon Surface Disinfectant Spray, 2x170 g Multipack",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/1212019_1-savlon-surface-disinfectant-spray.jpg",
+      "rating": 4.3,
+      "price": 245
+    },
+    {
+      "id": 120,
+      "name": "Godrej Ezee Liquid Detergent - For Winterwear, 3 kg (1 Bottle + 2 Refills)",
+      "category": "CLEANING & HOUSEHOLD",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40067904_9-godrej-ezee-liquid-detergent-for-winterwear.jpg",
+      "rating": 4.3,
+      "price": 499
+    }
+  ],
+  "randomdata": [
+    {
+      "id": 1,
+      "name": "Fresho Tomato - Hybrid (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/489555238/photo/tomato-isolated-on-the-white-background.jpg?s=612x612&w=0&k=20&c=2z-Ln2cFwERRbYNiyfzsD9v5RpQJpOYFFQ6kILUlTlc=",
+      "rating": 4.5,
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Fresho Potato (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1173936233/photo/young-potato.jpg?s=612x612&w=0&k=20&c=pmgsK4bOOQZ98xLQBmXkER9ofxDi5PpV8VkqiTYrzwc=",
+      "rating": 4.7,
+      "price": 42
+    },
+    {
+      "id": 3,
+      "name": "Fresho Chilli - Green Long, Medium (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1388424243/photo/green-chili-pepper-isolated-on-white-background-with-clipping-path.jpg?s=612x612&w=0&k=20&c=c0wMRVbcxZiilD3bNnXA8CAl8wBlNT4GMAs-6k62_GY=",
+      "rating": 4.3,
+      "price": 63
+    },
+    {
+      "id": 4,
+      "name": "Fresho Capsicum - Green (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1029686488/photo/two-green-bell-peppers-isolated-on-a-plain-white-background.jpg?s=612x612&w=0&k=20&c=Aizo6Am6LvnVCOEKqBZATw4T6_RI785mIHmFE0J1GrM=",
+      "rating": 4.4,
+      "price": 70
+    },
+    {
+      "id": 5,
+      "name": "Fresho Ginger (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/1350548698/photo/fresh-ginger-rhizome-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=VmueWVavrFy15l4Ft8aSGnNzdiFxluj88ZLqap5-SMs=",
+      "rating": 4.6,
+      "price": 85
+    },
+    {
+      "id": 6,
+      "name": "Fresho Garlic (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/511800020/photo/garlic-and-garlic-clove.jpg?s=612x612&w=0&k=20&c=PiKpDsQPvS1ilbPQf-tJAnb1vzqMxoSbHebsOnxkzgQ=",
+      "rating": 4.3,
+      "price": 115
+    },
+    {
+      "id": 7,
+      "name": "Fresho Cauliflower, 1 pc (approx. 400 to 600 g)",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/689636566/photo/cauliflower.jpg?s=612x612&w=0&k=20&c=LUEXrn7IBJ2gSi_cqhOO7OSVmKMrvVmHAZpkA_SH8ls=",
+      "rating": 4.3,
+      "price": 15
+    },
+    {
+      "id": 8,
+      "name": "Fresho Cabbage, 1 pc (approx. 500 g to 800 g)",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/531009780/photo/green-cabbage.jpg?s=612x612&w=0&k=20&c=LLBTHOYDRlZSlWct-A_DJDuvVibQNr5ZvBV-c6J4b_s=",
+      "rating": 4.1,
+      "price": 12
+    },
+    {
+      "id": 9,
+      "name": "Fresho Coriander Leaves, 250 g",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.5,
+      "price": 20
+    },
+    {
+      "id": 10,
+      "name": "Fresho Lemon - Organically Grown (Loose), 4 pcs",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.4,
+      "price": 18
+    },
+    {
+      "id": 11,
+      "name": "Fresho Carrot - Orange (Loose), 1 kg",
+      "category": "vegetables",
+      "image": "https://media.istockphoto.com/id/509553156/photo/fresh-parsley.jpg?s=612x612&w=0&k=20&c=MhNBpYHybe5KFrC_6xA2HzSwoPn1ZA2azeO3qKrSsG4=",
+      "rating": 4.7,
+      "price": 45
+    }
+  ]
 }
