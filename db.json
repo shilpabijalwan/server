@@ -599,18 +599,18 @@
       "images": [
         {
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
-          "id": 1
+          "id": 1.1
         },
         {
-          "id": 2,
+          "id": 1.2,
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_2_display_1680071853_9fd1d4a0.jpg"
         },
         {
-          "id": 3,
+          "id": 1.3,
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_3_display_1680071855_5a5eda73.jpg"
         },
         {
-          "id": 4,
+          "id": 1.4,
           "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_4_display_1680071856_2774a8cb.jpg"
         }
       ]
