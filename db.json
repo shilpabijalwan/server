@@ -581,7 +581,7 @@
       "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341545/swiss-beauty-craze-duo-lip-color-04-terrafic-pink_7_display_1683270903_0a95696e.jpg",
 
       "title": "Best Sellers",
-      "cetegory": "Lipstick",
+      "category": "Lipstick",
       "discription": "Swiss Beauty CRAZE Duo Lipstick | Non-transfer Lip Colour | 2-in-1 Lip Colour with Satin Matte Finish | 2 Shades in 1 Lipstick | Long-lasting lipstick 04 Terrafic Pink",
       "price": 299,
       "discount": 20,
@@ -620,7 +620,7 @@
       "id": 2,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/361020/swiss-beauty-real-makeup-base-highlighting-primer-natural-tint-30-ml_1_display_1590792783_75d33aec.jpg",
       "title": "Best Sellers",
-      "cetegory": "makeup",
+      "category": "makeup",
 
       "discription": "Swiss Beauty Real Makeup Base Highlighting Primer - Natural-Tint (32 ml)",
       "price": 440,
@@ -635,7 +635,7 @@
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/224572/swiss-beauty-liqiud-concealer-sand-sable-5-6-g-19_1_display_1681875795_f17e4508.jpg",
 
       "title": "Best Sellers",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty Liquid concealer - Medium-Beige (6 g)",
       "price": 229,
@@ -649,7 +649,7 @@
       "id": 4,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
       "title": "Best Sellers",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty Makeup Fixer (70 ml)",
       "price": 249,
@@ -663,7 +663,7 @@
       "id": 5,
       "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341509/swiss-beauty-craze-makeup-fixer-setting-spray-03-soothing-jasmine_6_display_1680085409_cbd77609.jpg",
       "title": "Best Sellers",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty CRAZE Makeup Setting Spray |with Jasmine extract |",
       "price": 287,
@@ -677,7 +677,7 @@
       "id": 6,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/294278/swiss-beauty-mascara-black-10-ml-50-16_1_display_1687246261_98a6fdaf.jpg",
       "title": "Best Sellers",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty Precision Mascara - Black (8.5 ml)",
       "price": 299,
@@ -692,7 +692,7 @@
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/356327/swiss-beauty-eyebrow-pencil-dark-brown-1-8-g-41-22_3_display_1690542172_8ccf327c.jpg",
       "title": "Best Sellers",
       "discription": "Swiss Beauty Eyebrow Pencil - Dark-Brown(1mg)",
-      "cetegory": "EyeMakeup",
+      "category": "EyeMakeup",
       "price": 99,
       "discount": 25,
       "key": "Eyebrow Pencil",
@@ -704,7 +704,7 @@
       "id": 8,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/200194/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-real-nude-6-ml_11_display_1692697429_7305dfda.jpg",
       "title": "Best Sellers",
-      "cetegory": "Lipstick",
+      "category": "Lipstick",
       "discription": "swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick",
       "price": 199,
       "discount": 16,
@@ -771,7 +771,7 @@
       "id": 13,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/363409/swiss-beauty-makeup-fixer-white-50-ml-31_1_display_1679474501_1843f7e0.jpg",
       "title": "Featured",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty Makeup Fixer (70 ml)",
       "price": 249,
@@ -785,7 +785,7 @@
       "id": 14,
       "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-purplle_exclusive_base_1__1__BytKq6D4b.png,ofo-top_right,dpr-2/static/img/product/341509/swiss-beauty-craze-makeup-fixer-setting-spray-03-soothing-jasmine_6_display_1680085409_cbd77609.jpg",
       "title": "Featured",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty CRAZE Makeup Setting Spray |with Jasmine extract |",
       "price": 287,
@@ -799,7 +799,7 @@
       "id": 15,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/294278/swiss-beauty-mascara-black-10-ml-50-16_1_display_1687246261_98a6fdaf.jpg",
       "title": "Featured",
-      "cetegory": "Makeup",
+      "category": "Makeup",
 
       "discription": "Swiss Beauty Precision Mascara - Black (8.5 ml)",
       "price": 299,
@@ -814,7 +814,7 @@
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/356327/swiss-beauty-eyebrow-pencil-dark-brown-1-8-g-41-22_3_display_1690542172_8ccf327c.jpg",
       "title": "Featured",
       "discription": "Swiss Beauty Eyebrow Pencil - Dark-Brown(1mg)",
-      "cetegory": "EyeMakeup",
+      "category": "EyeMakeup",
       "price": 99,
       "discount": 25,
       "key": "Eyebrow Pencil",
@@ -826,7 +826,7 @@
       "id": 17,
       "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/200194/swiss-beauty-ultra-smooth-matte-lip-liquid-lipstick-color-stay-real-nude-6-ml_11_display_1692697429_7305dfda.jpg",
       "title": "Featured",
-      "cetegory": "Lipstick",
+      "category": "Lipstick",
       "discription": "swiss Beauty Ultra Smooth Matte Lip Liquid Lipstick",
       "price": 199,
       "discount": 16,
